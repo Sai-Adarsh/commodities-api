@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/214063/46479857-4cd66e80-c7f0-11e8-9585-5748409c9490.png" width="60%">
-</p>
--------
-
 ## Commodities API
-![alt text for screen readers](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQT-1K3ZDb7HD-lB6Putm40XhTHwfgDRkKmgw&usqp=CAU)
 
+<p align="center">
+  <img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1397192181/bc47df8209e8fdc0fa8befb6dfc41ae2.png" width="60%">
+</p>
 
 * Flask based API that fetches stock value for Crude oil, Brent oil, gold, Natural gas, silver, copper, US Soybeans from [investing.com](https://www.investing.com/)
 
